@@ -1,0 +1,11 @@
+cd contracts
+npm run node
+
+cd contracts
+npm run deploy:local
+
+cd backend
+npm run dev
+
+cd frontend
+npm run dev
